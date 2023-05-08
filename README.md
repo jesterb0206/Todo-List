@@ -15,11 +15,11 @@
 
 <br>
 
-![Todo List]()
+![Todo List](images/Todo-List.png)
 
 <br>
 
-[Deployment]()
+[Deployment](https://jesterb0206.github.io/Todo-List/)
 
 <br>
 
